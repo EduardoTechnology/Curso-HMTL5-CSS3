@@ -1,0 +1,8 @@
+<p>Acessar um <a href="link" target="_blank" rel="external">link externo</a> abrindo uma nova aba</p>
+<p>Acessar um <a href="page002.html" rel = "next" target="_self">link no mesmo site</a></p>
+<p>Voltar a <a href="index.html" rel="prev" target="_self">página</a></p>
+<p>Voltar para <a href="../index.html">primeira página</a></p>
+<ul>
+<li><a href="pasta/arquivo.rar" type="application/pdf">Livro compactado em ZIP</a></li> 
+
+</ul>

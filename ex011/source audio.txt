@@ -1,0 +1,6 @@
+<picture>
+   <source media="(max-width:750px)" srcset=imagens/foto-p.png type="image/png">
+   <img src="" alt
+</picture>
+
+<audio src="" controls> </audio>
